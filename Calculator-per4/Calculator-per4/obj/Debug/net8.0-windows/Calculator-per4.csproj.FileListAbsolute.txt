@@ -1,0 +1,16 @@
+C:\Users\marij\OneDrive - ROC Midden Nederland\Documenten\School\Github\Per 4\rekenmachine\Calculator-per4\Calculator-per4\bin\Debug\net8.0-windows\Calculator-per4.exe
+C:\Users\marij\OneDrive - ROC Midden Nederland\Documenten\School\Github\Per 4\rekenmachine\Calculator-per4\Calculator-per4\bin\Debug\net8.0-windows\Calculator-per4.deps.json
+C:\Users\marij\OneDrive - ROC Midden Nederland\Documenten\School\Github\Per 4\rekenmachine\Calculator-per4\Calculator-per4\bin\Debug\net8.0-windows\Calculator-per4.runtimeconfig.json
+C:\Users\marij\OneDrive - ROC Midden Nederland\Documenten\School\Github\Per 4\rekenmachine\Calculator-per4\Calculator-per4\bin\Debug\net8.0-windows\Calculator-per4.dll
+C:\Users\marij\OneDrive - ROC Midden Nederland\Documenten\School\Github\Per 4\rekenmachine\Calculator-per4\Calculator-per4\bin\Debug\net8.0-windows\Calculator-per4.pdb
+C:\Users\marij\OneDrive - ROC Midden Nederland\Documenten\School\Github\Per 4\rekenmachine\Calculator-per4\Calculator-per4\obj\Debug\net8.0-windows\Calculator_per4.Form1.resources
+C:\Users\marij\OneDrive - ROC Midden Nederland\Documenten\School\Github\Per 4\rekenmachine\Calculator-per4\Calculator-per4\obj\Debug\net8.0-windows\Calculator-per4.csproj.GenerateResource.cache
+C:\Users\marij\OneDrive - ROC Midden Nederland\Documenten\School\Github\Per 4\rekenmachine\Calculator-per4\Calculator-per4\obj\Debug\net8.0-windows\Calculator-per4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marij\OneDrive - ROC Midden Nederland\Documenten\School\Github\Per 4\rekenmachine\Calculator-per4\Calculator-per4\obj\Debug\net8.0-windows\Calculator-per4.AssemblyInfoInputs.cache
+C:\Users\marij\OneDrive - ROC Midden Nederland\Documenten\School\Github\Per 4\rekenmachine\Calculator-per4\Calculator-per4\obj\Debug\net8.0-windows\Calculator-per4.AssemblyInfo.cs
+C:\Users\marij\OneDrive - ROC Midden Nederland\Documenten\School\Github\Per 4\rekenmachine\Calculator-per4\Calculator-per4\obj\Debug\net8.0-windows\Calculator-per4.csproj.CoreCompileInputs.cache
+C:\Users\marij\OneDrive - ROC Midden Nederland\Documenten\School\Github\Per 4\rekenmachine\Calculator-per4\Calculator-per4\obj\Debug\net8.0-windows\Calculator-per4.dll
+C:\Users\marij\OneDrive - ROC Midden Nederland\Documenten\School\Github\Per 4\rekenmachine\Calculator-per4\Calculator-per4\obj\Debug\net8.0-windows\refint\Calculator-per4.dll
+C:\Users\marij\OneDrive - ROC Midden Nederland\Documenten\School\Github\Per 4\rekenmachine\Calculator-per4\Calculator-per4\obj\Debug\net8.0-windows\Calculator-per4.pdb
+C:\Users\marij\OneDrive - ROC Midden Nederland\Documenten\School\Github\Per 4\rekenmachine\Calculator-per4\Calculator-per4\obj\Debug\net8.0-windows\Calculator-per4.genruntimeconfig.cache
+C:\Users\marij\OneDrive - ROC Midden Nederland\Documenten\School\Github\Per 4\rekenmachine\Calculator-per4\Calculator-per4\obj\Debug\net8.0-windows\ref\Calculator-per4.dll
